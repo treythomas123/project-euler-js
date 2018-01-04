@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Solutions to Project Euler (projecteuler.net) problems in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treythomas123/project-euler-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treythomas123/project-euler-js/issues"
+  },
+  "homepage": "https://github.com/treythomas123/project-euler-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
